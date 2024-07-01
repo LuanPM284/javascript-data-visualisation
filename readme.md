@@ -37,6 +37,9 @@ In this html file, you will find two data tables. Use JavaScript to traverse the
 
 If javascript is disabled, the graph does not appear. If javascript is enabled, the graph appears between the title and the table.
 
+```JS
+
+```
 ### 2. Remote data, in real-time, via ajax
 
 There are data sitting at this URL : [https://canvasjs.com/services/data/datapoints.php](https://canvasjs.com/services/data/datapoints.php)
