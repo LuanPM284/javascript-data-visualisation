@@ -37,9 +37,12 @@ In this html file, you will find two data tables. Use JavaScript to traverse the
 
 If javascript is disabled, the graph does not appear. If javascript is enabled, the graph appears between the title and the table.
 
-```JS
 
-```
+#### Notes 1
+Had a hard time placing the chart in the right place, since I ended up just copying an h3 instead of using the table id to show it before. I found a method to do that.
+
+For the table retrieval data, it was easier with the help of a colleague, for some bizarre reason the chart was not being displayed, but with the **same** code as GPT it _worked!_
+
 ### 2. Remote data, in real-time, via ajax
 
 There are data sitting at this URL : [https://canvasjs.com/services/data/datapoints.php](https://canvasjs.com/services/data/datapoints.php)
