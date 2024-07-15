@@ -26,6 +26,9 @@ This consolidation challenge will help you assess your ability to solve a proble
 ## The correct index to load
 [Here is the correct index to load, couldn't figure out how to deploy from here](https://github.com/LuanPM284/javascript-data-visualisation/blob/main/challenge-js-files/index.html)
 
+Here are the images that should be displayed:
+![image 1](first_graph.png)
+
 ## Your mission
 
 You work in the Multimedia department of one of the European Union institutions. This morning, Johnny Hasnoclew, your Project Manager, sends you on a mission: one of the in-house journalists has published a new article on the institution's website. The article in question is already integrated with an **html** / **css** / **Javascript file**.
