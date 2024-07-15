@@ -24,7 +24,7 @@ This consolidation challenge will help you assess your ability to solve a proble
 ![Droid](js-1.gif)
 
 ## The correct index to load
-https://github.com/LuanPM284/javascript-data-visualisation/blob/main/challenge-js-files/index.html
+[https://github.com/LuanPM284/javascript-data-visualisation/blob/main/challenge-js-files/index.html]
 
 ## Your mission
 
