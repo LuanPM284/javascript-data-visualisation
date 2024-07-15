@@ -28,6 +28,8 @@ This consolidation challenge will help you assess your ability to solve a proble
 
 Here are the images that should be displayed:
 ![image 1](first_graph.png)
+![image 2](second_graph.png)
+![image 3](third_graph.png)
 
 ## Your mission
 
